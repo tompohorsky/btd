@@ -1,4 +1,4 @@
-# Project fo Nechaptera
+# Backend for Testing Docker
 Simple project for study purposes
 Provides facts about Chuck Norris and some sh*ts from Donald Trump
 
